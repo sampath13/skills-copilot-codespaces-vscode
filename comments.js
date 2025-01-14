@@ -1,4 +1,4 @@
-// create web server and listen to it
+// Create web server
 // create a route for /comments
 // when a request is made to /comments, send the comments array as a response
 // to run the server, type node comments.js in the terminal
